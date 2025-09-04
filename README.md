@@ -2,7 +2,7 @@ Password Manager
 
 A secure and user-friendly password management application built with Python Tkinter that helps you store and manage your credentials securely.
 
-[Password Manager Screenshot](Screenshot%202025-09-04%20085330.png)
+[Password Manager Screenshot](Password_manager_screenshot.png)
 
 Features
 - 🔐 Secure Password Storage - Store website credentials securely
