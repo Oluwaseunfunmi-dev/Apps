@@ -1,0 +1,4 @@
+Python 3.6 or higher required
+json is part of Python standard library (no installation needed)
+tkinter is part of Python standard library (no installation needed)
+No external dependencies required!
